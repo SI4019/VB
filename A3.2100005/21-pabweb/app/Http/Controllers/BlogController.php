@@ -79,7 +79,6 @@ public function edit(Blog $blog)
 public function update(Request $request, Blog $blog)
 {
     $this->validate($request, [
-        'image'     => 'required|image|mimes:png,jpg,jpeg',
         'title'     => 'required',
         'content'   => 'required'
     ]);
