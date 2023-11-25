@@ -4,7 +4,7 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=SI4019&color=blueviolet"></a>
 <a href="#"><img src="https://img.shields.io/github/issues-pr/SI4019/VB?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/repo-size/SI4019/VB?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/github/commit-activity/w/SI4019/VB?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/github/commit-activity/w/SI4019/VA?style=flat-square"></a>
 <a href="#"><img src="https://travis-ci.com/SI4019/VB.svg?branch=master"></a>
 </p>
 
