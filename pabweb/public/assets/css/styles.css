@@ -1,0 +1,155 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+header,
+nav,
+section,
+footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+header h1 {
+    text-align: center;
+    margin-top: 10px;
+    color: #333;
+}
+
+header p {
+    text-align: center;
+    color: #777;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+    color: #f39c12;
+}
+
+section h2 {
+    color: #333;
+}
+
+section p {
+    color: #777;
+}
+
+.project {
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.project img {
+    width: 100%;
+    height: auto;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+/* ... (kode CSS sebelumnya) */
+
+#blog {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.blog-post {
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.blog-post img {
+    width: 100%;
+    height: auto;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.blog-content {
+    padding: 20px;
+}
+
+.blog-content h3 {
+    color: #333;
+}
+
+.blog-content p {
+    color: #777;
+}
+
+.blog-content a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #f39c12;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.blog-content a:hover {
+    background-color: #e74c3c;
+}
+
+/* ... (kode CSS setelahnya) */
+
+
+
+
+.social {
+    margin-top: 10px;
+}
+
+.social a {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease-in-out;
+}
+
+.social a:hover {
+    color: #f39c12;
+}
+
+footer {
+    text-align: center;
+    color: #777;
+}
